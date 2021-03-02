@@ -1,2 +1,2 @@
 # management-system
-create a student details
+create a student details,
